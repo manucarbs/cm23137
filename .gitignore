@@ -1,7 +1,0 @@
-# Ignorar archivos objeto
-*.o
-
-# Ignorar archivos sin extensión específicos que se generan al compilar
-resta
-multiplicacion
-division

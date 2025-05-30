@@ -1,6 +1,6 @@
 # ✅ Portafolio
 
-Este repositorio contiene código en lenguaje ensamblador (.asm) que realiza operaciones como: Resta de tres enteros(16 bits), Multiplicación(8 bits) y División(32 bits).
+Este repositorio contiene código en lenguaje ensamblador (.asm) que realiza operaciones como: Resta de tres enteros (16 bits), Multiplicación (8 bits) y División (32 bits).
 
 ## 📁 Estructura del proyecto
 
