@@ -19,6 +19,6 @@ Este repositorio contiene código en lenguaje ensamblador (.asm) que realiza ope
 Para compilar un archivo `.asm`, usar los comandos:
 
 ```bash
-nasm -f elf64 archivo.asm -o archivo.o
-ld archivo.o -o archivo
+nasm -f elf64 -o archivo.o archivo.asm
+ld -o archivo archivo.o
 ./archivo
