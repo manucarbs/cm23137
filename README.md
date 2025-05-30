@@ -6,12 +6,18 @@ Este repositorio contiene código en lenguaje ensamblador (.asm) que realiza ope
 
 - Ejercicio 1  
     resta.asm
+    resta
+    resta.o
 ---
 - Ejercicio 2  
     multiplicacion.asm
+    multiplicacion
+    multiplicacion.o
 ---
 - Ejercicio 3  
     division.asm
+    division
+    division.o
 ---
 
 ## 🧠 Uso
